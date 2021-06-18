@@ -18,8 +18,7 @@
 - DisplayForModel
 - EditorForModel
 
-# **`Domain Model и View Model
-`**
+# **`Domain Model и View Model`**
 ![](images/1.png)
 
 Модель Player в данном случае представляет модель домена, ее объекты хранятся в базе данных и чтобы их получить, мы обращаемся через контекст данных к БД.
